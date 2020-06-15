@@ -1,0 +1,6 @@
+{
+  "name": "Remontoire",
+  "description" : "Display configured key bindings from a configuration file (eg. SKHD)",
+  "author" : "Daniel Quinlan",
+  "email" : "dq@chaosengine.net"
+}
